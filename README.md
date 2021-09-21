@@ -14,9 +14,13 @@ Welcome to Miluka, the Dapp to create micro lotteries based on basic games that 
 
 1. Players
 2. Patners
-3. 
+3. Contract Owner
 
 ### 📜 The Rules
+
+1)
+2)
+3)
 
 
 
