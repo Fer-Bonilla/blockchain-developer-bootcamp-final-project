@@ -18,8 +18,8 @@ Welcome to Miluka, the Dapp to create micro lotteries based on basic games that 
 
 ### 📜 The Rules
 
-1)
-2)
+1) Pools take short time, depending of the pool size can take hour, days or weeks
+2) Only ine address can participate with one pool token
 3)
 
 
