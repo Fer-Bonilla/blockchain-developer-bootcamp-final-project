@@ -1,14 +1,20 @@
 # :star2: Miluka
 
-Welcome to Miluka, the Dapp to create micro lotteries based on basic games that let people win instant prices that can cash using the stable coin platform token and the native token.
- 
-## 🎮 The Game
+Welcome to Miluka, the Dapp to create micro lotteries that let the people win instant prices that can cash using the token platform. The Dapp first version planned for the Consensys Bootcamp includes the micro-lotteries creation, users registration, and betting and prize withdrawal to the winner Ethereum Address. 
 
-1) One user can start a micro lottery based on token limits (Only a specified range for base values, for example, 1, 2, 5, or 10) then let to define a limit fixed-top price for example 100 X base value.
-2) Users can choose the pool that opens and participate until the maximum value is achieved.
-3) When the pool top value is achieved the system executes an oracle call to get a random winner and execute the price withdrawal to the winner.
-4) winner can cash the money to the stable coin and buy directly to the store associated with the platform and get the product chosen.
-5) Tokens are kept and paid to the partner, reducing all the cash management processes and getting discounts and offers.
+## 🎮 The Dapp
+
+1) Users can bet into a micro-lottery from three different sizes(Defined by top value) with a fixed betting value of numbers of lottery tokens for each one.
+
+2) If there is a previous lottery with the same top limit opened with slots available, the user is assigned to this one
+
+3) Users are assigned to open lotteries until a top value is achieved, and then the smart contract executes an oracle call to get the winner's address, and prize withdrawal is executed to the lottery winner instantly.
+
+4) Users can select a percentage of prize for automatic betting on new micro-lotteries with a user rule defined and withdrawal condition defined.
+
+5) Lottery token can be a swap for a contract base stable-coin token in the local currency (Currency from the country where the user is registered) and business partners can offer products to buy directly from the platform.
+
+6) Bussiness partner e-commerce platform can offer discounts and products. A business partner can take liquidity from the stable-coin wallet or use it with other partners to improve cash management through the platform.
 
 ## 👩🏻‍💻 The Players
 
@@ -18,27 +24,33 @@ Welcome to Miluka, the Dapp to create micro lotteries based on basic games that 
 
 ### 📜 The Rules
 
-1) Pools take short time, depending of the pool size can take hour, days or weeks
-2) Only ine address can participate with one pool token
-3)
+1) Lottery Pools are short time and fast closing bets. If the top value of the lottery is not achieved at a specified time, the micro lottery is canceled and funds are sent back to the owners.
 
+2) Prizes are paid instantly after the contract oracle is confirmed
 
+3) Automatic betting is defined by the user in his own wallet and executed until defines rules are still valid.
 
 
 ### 📖 How to Play
 
-
+1) Create your account on the Dapp website
+2) User accept site conditions
+3) Deposit lottery tokens swapped on any exchange where the token is listed.
+4) Select the micro-lottery to bet
+5) Configure automatic betting options and withdraw conditions
 
 ## 🛠 Technology
 
-- Game logic is open-source and is an Ethereum smart contract written in Solidity
+- Ethereum smart contract written in Solidity
+- Wen Dapp implemented wit
 - Tools and libraries used: Truffle, Openzeppelin, NodeJS, Bootstrap
 
 ## 🚀‍ Development
 
 ### Prerequisites
 - Node v10.5.0
-- Solidity v0.5.0
+- Solidity v0.9.0
+- Chainlink
 - Truffle v5.0.7
 
 ### Setup
@@ -55,4 +67,4 @@ Welcome to Miluka, the Dapp to create micro lotteries based on basic games that 
 - Interact with the web interface
 
 ## ✅ Testing
-- You can run the tests by running `truffle test` from the Goalify main directory
+- You can run the tests by running `truffle test` from the Dapp main directory
