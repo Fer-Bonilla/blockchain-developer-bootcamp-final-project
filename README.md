@@ -16,7 +16,7 @@ Welcome to Miluka, the Dapp to create micro lotteries that let the people win in
 
 6) Bussiness partner e-commerce platform can offer discounts and products. A business partner can take liquidity from the stable-coin wallet or use it with other partners to improve cash management through the platform.
 
-## 👩🏻‍💻 The Players
+## 👩🏻‍💻 The contract roles
 
 1. Players
 2. Patners
