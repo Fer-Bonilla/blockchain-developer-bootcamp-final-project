@@ -1,6 +1,6 @@
 # :star2: Miluka
 
-Welcome to Miluka, the Dapp to create micro lotteries that let the people win instant prices that can cash using the token platform. The Dapp first version planned for the Consensys Bootcamp includes the micro-lotteries creation, users registration, and betting and prize withdrawal to the winner Ethereum Address. 
+Welcome to Miluka, the Dapp to create micro lotteries that let the people win instant prizes that can cash using the token platform. The Dapp first version planned for the Consensys Bootcamp includes the micro-lotteries creation, users registration, and betting and prize withdrawal to the winner Ethereum Address.
 
 ## 🎮 The Dapp
 
