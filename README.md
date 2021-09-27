@@ -16,6 +16,11 @@ Welcome to Miluka, the Dapp to create micro lotteries that let the people win in
 
 6) Bussiness partner e-commerce platform can offer discounts and products. A business partner can take liquidity from the stable-coin wallet or use it with other partners to improve cash management through the platform.
 
+## 👩🏻‍💻 Micro lottery types
+
+![image](https://user-images.githubusercontent.com/33405407/134859139-12670214-1344-4ef5-a3ef-1ccfaf69a634.png)
+
+
 ## 👩🏻‍💻 The contract roles
 
 1. Players
