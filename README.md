@@ -49,6 +49,7 @@ Welcome to Miluka, the Dapp to create micro lotteries that let the people win in
 - Ethereum smart contract written in Solidity
 - Web from Dapp implemented with react
 - Tools and libraries used: Truffle, Openzeppelin, NodeJS, Bootstrap
+- Chainlink oracles
 
 ## 🚀‍ Development
 
