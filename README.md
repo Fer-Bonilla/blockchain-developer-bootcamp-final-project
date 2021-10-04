@@ -20,6 +20,8 @@ Welcome to Miluka, the Dapp to create micro lotteries that let the people win in
 
 ![image](https://github.com/Fer-Bonilla/blockchain-developer-bootcamp-final-project/blob/main/milukapng.png)
 
+## Dapp diagram
+
 
 ## 👩🏻‍💻 The contract roles
 
