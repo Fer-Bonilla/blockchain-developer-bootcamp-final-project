@@ -22,6 +22,8 @@ Welcome to Miluka, the Dapp to create micro lotteries that let the people win in
 
 ## Dapp diagram
 
+Flow diagram
+
 
 ## 👩🏻‍💻 The contract roles
 
