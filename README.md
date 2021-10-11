@@ -49,10 +49,10 @@ Class Diagram
 ### 📖 How to Play
 
 1) Create your account on the Dapp website
-2) User need to accept site and service conditions
-3) User can deposit lottery tokens swapped on any exchange where the token is listed.
+2) Users need to accept site and service conditions
+3) Users can deposit lottery tokens swapped on any exchange where the token is listed.
 4) Select the micro-lottery to bet
-5) Configure automatic betting options and withdraw conditions
+5) Configure automatic betting options and withdrawal conditions
 
 ## 🛠 Technology
 
