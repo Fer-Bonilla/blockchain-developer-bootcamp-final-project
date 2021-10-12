@@ -22,13 +22,18 @@ Welcome to Miluka, the Dapp to create micro lotteries that let the people win in
 
 ## Dapp diagram
 
-Activy diagram
+### Activy diagram
 
-Sequence diagram
 
-State diagram
 
-Class Diagram
+### Sequence diagram
+
+
+
+### State diagram
+
+
+### Class Diagram
 
 
 ## 👩🏻‍💻 The contract roles
