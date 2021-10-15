@@ -50,6 +50,8 @@ Welcome to Miluka, the Dapp to create micro lotteries that let the people win in
 
 3) Automatic betting is defined by the user in his own wallet and executed until defines rules are still valid.
 
+4) User can change anytime the betting configuration
+
 
 ### 📖 How to Play
 
